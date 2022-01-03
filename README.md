@@ -1,7 +1,5 @@
 ## Olá, eu sou Daniel Palma 👋
 
----
-
 Sou formado em Ciencia da Computação e atualmente sou estudante de Desenvolvimento Web.
 
 
