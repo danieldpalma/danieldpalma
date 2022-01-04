@@ -6,7 +6,7 @@ Sou formado em Ciencia da Computação e atualmente sou estudante de Desenvolvim
 Desenvolvi interesse na programação voltada a Web durante a faculdade e venho estudando por cursos de terceiros e buscando conhecimento por conta própria.
 
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/danieldpalma/))
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white, https://www.linkedin.com/in/danieldpalma/)
 
 ---
 
