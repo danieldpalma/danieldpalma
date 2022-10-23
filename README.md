@@ -1,6 +1,6 @@
 ## Olá, eu sou Daniel Palma 👋
 
-Sou formado em Ciencia da Computação e atualmente sou estudante de Desenvolvimento Web.
+Sou formado em Ciencia da Computação e atualmente sou estudante de Desenvolvimento Web Front End.
 
 
 Desenvolvi interesse na programação voltada a Web durante a faculdade e venho estudando por cursos de terceiros e buscando conhecimento por conta própria.
