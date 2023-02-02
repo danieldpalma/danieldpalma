@@ -3,7 +3,7 @@
 Sou formado em Ciencia da Computação e atualmente sou estudante de Desenvolvimento Web Front End.
 
 
-Desenvolvi interesse na programação voltada a Web durante a faculdade e estágio que fiz, e venho estudando por cursos de terceiros e buscando conhecimento por conta própria.
+Desenvolvi interesse na programação voltada a Web durante a faculdade e estágio que fiz, desde então venho estudando por cursos de terceiros e buscando conhecimento por conta própria.
 
 
 ✉️ Você pode entrar em contato comigo pelo <span align="center"> <a href="https://www.linkedin.com/in/danieldpalma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" /></a></span>
