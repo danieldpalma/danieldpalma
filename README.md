@@ -1,6 +1,6 @@
 ## Olá, eu sou Daniel Palma <span align="left"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36"></img></span>
 
-Sou formado em Ciencia da Computação e atualmente sou estudante de Desenvolvimento Web Front End.
+Sou formado em Ciencia da Computação e atualmente sou Desenvolvedor Web Front End.
 
 
 Desenvolvi interesse na programação voltada a Web durante a faculdade e estágio que fiz, desde então venho estudando por cursos de terceiros e buscando conhecimento por conta própria.
