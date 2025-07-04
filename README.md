@@ -1,33 +1,39 @@
 ## Olá, eu sou Daniel Palma <span align="left"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36"></img></span>
 
-Desenvolvedor Web Front End formado em Ciencia da Computação
+Sou desenvolvedor com foco em C# e JavaScript.
 
 
-Desenvolvi interesse na programação voltada a Web durante a faculdade e estágio, desde então venho estudando por cursos de terceiros e buscando conhecimento por conta própria.
+Atualmente estou aprofundando meus conhecimentos em backend e explorando ferramentas modernas do ecossistema .NET, além de estar interessado em frontend com Angular.
 
+✉️ Você pode entrar em contato comigo pelo [Linkedin](https://www.linkedin.com/in/danieldpalma/)
 
-✉️ Você pode entrar em contato comigo pelo <span align="center"> <a href="https://www.linkedin.com/in/danieldpalma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" /></a></span>
-
----
-
-## Possuo conhecimento em:
-
+## Habilidades:
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" height="42" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42" height="42" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="42" height="42" alt="CSS3" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="42" height="42" alt="React" /></a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+   <a href="https://https://www.w3schools.com/css/">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" />
+  </a>
+    <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=typescript" />
+  </a>
+   <a href="https://angular.dev/">
+    <img src="https://skillicons.dev/icons?i=angular" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+   <a href="https://dotnet.microsoft.com/pt-br/download/dotnet">
+    <img src="https://skillicons.dev/icons?i=dotnet" />
+  </a>
+   <a href="https://dotnet.microsoft.com/pt-br/languages/csharp">
+    <img src="https://skillicons.dev/icons?i=cs" />
+  </a>
+  <a href="https://www.microsoft.com/pt-br/sql-server">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
 </p>
-
-## Tecnologias que pretendo estudar:
-<p align="left">
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-</p>
-
