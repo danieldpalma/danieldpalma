@@ -3,7 +3,7 @@
 Sou desenvolvedor com foco em C# e JavaScript.
 
 
-Atualmente estou aprofundando meus conhecimentos em backend e explorando ferramentas modernas do ecossistema .NET, além de estar interessado em frontend com Angular.
+Atualmente estou aprofundando meus conhecimentos em backend e explorando ferramentas do ecossistema .NET, além de estar interessado em frontend com Angular.
 
 ✉️ Você pode entrar em contato comigo pelo [Linkedin](https://www.linkedin.com/in/danieldpalma/)
 
