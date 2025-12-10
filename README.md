@@ -1,6 +1,6 @@
 ## Olá, eu sou Daniel Palma <span align="left"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36"></img></span>
 
-Sou desenvolvedor com foco em C# e JavaScript.
+Sou desenvolvedor com foco em C# e JavaScript/Typescript.
 
 
 Atualmente estou aprofundando meus conhecimentos em backend e explorando ferramentas do ecossistema .NET, além de estar interessado em frontend com Angular.
