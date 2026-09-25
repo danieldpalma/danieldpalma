@@ -12,3 +12,5 @@ Você pode entrar em contato comigo pelo:
 [![My Skills Backend](https://skillicons.dev/icons?i=dotnet,cs,mysql,git,postman)](https://skillicons.dev)
 
 [![My Skills Frontend](https://skillicons.dev/icons?i=html,css,js,ts,angular)](https://skillicons.dev)
+
+[![My Skills Frontend](https://skillicons.dev/icons?i=java,spring,react)](https://skillicons.dev)
